@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://v3.com.bot/$1"
+ }
+  ]
+}
